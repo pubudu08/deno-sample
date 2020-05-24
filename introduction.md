@@ -11,11 +11,11 @@
 * Secure by defulat (security flags)
 * De-centralized packaging (biggest complain of NodeJs)
   * No more NPM packages/package.json
-  * Packages are imported from URL : import { Application } from 'http://deno.land/x/oak/mod.ts'
+  * Packages are imported from URL : <code> import { Application } from 'http://deno.land/x/oak/mod.ts' </code>
   * Cached to harddrive on load
 * Standard Libraries
   * Extensive standard library for things like fs, datetime, http, etc.
-  * eg: import { serve } from 'http://deno.land/x/std/http/server.ts'
+  * eg: <code> import { serve } from 'http://deno.land/x/std/http/server.ts' </code>
 * Modern JS
 * ES modules
   * Import syntax over the common js require syntax that nodejs uses
@@ -28,13 +28,13 @@
 ## Installation
 
 * Using HomeBrew macOS
-  * $ brew install deno
+  * <code> $ brew install deno </code>
 
 * install VSCode deno extention from justjavac
 
 
 ## References
 
-* (Deno Doco)[https://deno.land/]
-* (10 Things I Regret About Node.js - Ryan Dahl)[https://www.youtube.com/watch?v=M3BM9TB-8yA]
-* (Deno Crash course)[https://www.youtube.com/watch?v=NHHhiqwcfRM]
+* [Deno Doco](https://deno.land/)
+* [10 Things I Regret About Node.js - Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+* [Deno Crash course](https://www.youtube.com/watch?v=NHHhiqwcfRM)
