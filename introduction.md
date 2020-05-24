@@ -35,4 +35,6 @@
 
 ## References
 
-* https://deno.land/
+* (Deno Doco)[https://deno.land/]
+* (10 Things I Regret About Node.js - Ryan Dahl)[https://www.youtube.com/watch?v=M3BM9TB-8yA]
+* (Deno Crash course)[https://www.youtube.com/watch?v=NHHhiqwcfRM]
